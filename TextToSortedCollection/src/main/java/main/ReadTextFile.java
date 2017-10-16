@@ -27,10 +27,8 @@ public class ReadTextFile {
 	/**
 	 * Read a text file and return the Sorted Words List
 	 * 
-	 * @param fileName
-	 *            String
-	 * @param separator
-	 *            String
+	 * @param fileName String
+	 * @param separator String
 	 * @return List<String>
 	 */
 	public List<String> getSortedWordsList(String fileName, String separator) {
